@@ -1,0 +1,3 @@
+/Users/tuananh/Desktop/SS/cmake-build-debug/CMakeFiles/SS.dir
+/Users/tuananh/Desktop/SS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/Desktop/SS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
